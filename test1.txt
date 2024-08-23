@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 989F-7151
-
- Directory of C:\Users\user\Desktop\myproject
-
-2024-08-23  12:37 PM    <DIR>          .
-2024-08-23  12:37 PM    <DIR>          ..
-2024-08-23  12:37 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  284,240,248,832 bytes free
+change text
